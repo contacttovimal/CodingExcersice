@@ -1,3 +1,5 @@
+package hackerrank;
+
 import java.io.*;
 import java.util.*;
 import java.util.stream.Stream;
